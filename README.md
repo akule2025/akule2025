@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Charles Akule M'Ithai  
 
-<!--
-**akule2025/akule2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## 🌱 About Me  
+- 🎓 Currently studying Computer Programming at **MAHANAHIM, IYF Academy**  
+- 💻 Passionate about software development and problem-solving  
+- 🚀 Exploring different areas of technology to build strong coding skills  
 
-- 🔭 I’m currently working on programming class...
-- 🌱 I’m currently learning programming...
-- 👯 I’m looking to collaborate on ... class work 
-- 🤔 I’m looking for help with my homework...
-- 💬 Ask me about .my class work progress..
-- 📫 How to reach me: ..0723723027.
-- 😄 Pronouns: .he ..
-- ⚡ Fun fact: ..music.
--->
+## 🚀 What I’m Learning  
+- 🌐 Web Development: **HTML, CSS, PHP**  
+- 🔣 Programming Languages: **C, C++, Java**  
+- ⚡ Currently building a foundation in both **frontend and backend programming**  
+
+## 📂 Current Projects  
+- 🔨 Working on coursework projects at IYF Academy  
+- 🌱 Practice projects with HTML, CSS, and C programs  
+- 📚 Preparing to build more advanced applications as I learn  
+
+## 📫 How to Reach Me  
+- 📧 Email: **[Your School Email / Professional Contact]**  
+- 🌍 (Optional) Add your LinkedIn or personal website here later  
+
+---
+
+✨ *This profile is a work in progress — I’ll keep updating it as I grow in my coding journey!*  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
