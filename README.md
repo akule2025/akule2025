@@ -18,8 +18,8 @@ Welcome to my GitHub profile!
 - 📚 Preparing to build more advanced applications as I learn  
 
 ## 📫 How to Reach Me  
-- 📧 Email: **[Your School Email / Professional Contact]**  
-- 🌍 (Optional) Add your LinkedIn or personal website here later  
+- 📧 Email: **mmananga54@gmail.com**  
+- 🌍 Tel:0723723027  
 
 ---
 
